@@ -11,7 +11,7 @@ import streamlit as st
 
 
 #loading the saved model
-loaded_model = pickle.load(open('Traning_model2.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/Ajay/Documents/ML-Deployment-1/Traning_model2.sav', 'rb'))
 
 #creating a function for prediction
 
